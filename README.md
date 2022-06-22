@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @705d1ef
 - 👀 I’m interested in Python, Django, Django Rest API, React.js
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
